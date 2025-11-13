@@ -48,10 +48,11 @@ Install dependencies (Windows only):
 
 ```bash
 pip install windows-curses
-How to Run
+```
+## How to Run
 
 Each game is in its own Python file. For example:
 
-python maze.py
-python snake.py
-python banana.py
+- python maze.py
+- python snake.py
+- python banana.py
